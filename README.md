@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/v1MQNmT/68747470733a2f2f692e696d6775722e636f6d2f355459557378722e706e67.png" width="100%">
+<img src="https://i.ibb.co/v1MQNmT/68747470733a2f2f692e696d6775722e636f6d2f355459557378722e706e67.png">
 
 <p align="center"> Here you can find how to enable additional features by modifying floating_feature.xml, build.prop and some CSC files!
 
