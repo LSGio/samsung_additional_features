@@ -1,5 +1,7 @@
-# Build.prop Tweaks
-Add these lines in Build.prop, which is located in system/system. (Some probably is placebo i haven't tested all of them)
+# build.prop Tweaks
+
+Add these lines into your build.prop, which is located in system_root/system. (Some probably is placebo i haven't tested all of them)
+system_root location may be different for different devices especially when comparing old devices to new System-As-Root devices.
 
 ### ¬ Enable Zygote preforking
 ```
