@@ -1,18 +1,57 @@
+# Secret Codes and Hidden Menus
 
-<p align="center"> Here you can find how to enable additional features by modifying floating_feature.xml, build.prop and some CSC files!
+This branch showcases some secret codes you can enter in your dialer and other apps to get into some hidden menus and functionalities
+Most of the codes can be entered directly into the dialer or into the DRParser
 
-<p align="center">
+### ¬ DRParser Mode (com.sec.android.app.parser/.SecretCodeIME)
 
-<img src="https://img.shields.io/badge/fork%20by-LSGio-blue?style=for-the-badge&logo=appveyor" >
-<img src="https://img.shields.io/badge/made%20by-el0xren-blue?style=for-the-badge&logo=appveyor" >
-<img src="https://img.shields.io/github/stars/LSGio/samsung_additional_features?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/LSGio/samsung_additional_features?style=for-the-badge">
+Open up Samsung Calculator and type in the following
 
-</p>
+```
+(+30012012732+
+```
 
-<li>Debloat List - <a href="https://github.com/LSGio/samsung_additional_features/tree/debloat">Here</a>
-<li>Floating Feature Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/floatingfeature">Here</a>
-<li>CSC Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/cscfeature">Here</a>
-<li>build.prop Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/buildprop">Here</a>
-<li>Camera Tweaks - <a href="https://github.com/neel021000/MODS">Here</a>
-<li>Original XDA Thread - <a href="https://forum.xda-developers.com/t/additional-features-for-samsung-devices.4181105/">Here</a>
+### ¬  SysDump Menu
+```
+*#9900#
+```
+
+### ¬  HwModuleTest Menu
+```
+*#0*#
+```
+
+### ¬  RilServiceMode Menu #1
+```
+*#0011#
+```
+
+### ¬  RilServiceMode Menu #2
+```
+*#9090#
+```
+
+### ¬  RilServiceMode Menu #3
+```
+*#2222#
+```
+
+### ¬  IMEI Info
+```
+*#06#
+```
+
+### ¬  SimpleVersion Info
+```
+*#1234#
+```
+
+### ¬  USBSettings Menu
+```
+*#0808#
+```
+
+### ¬  TSP Firmware Menu
+```
+*#2663#
+```
