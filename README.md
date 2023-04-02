@@ -4,10 +4,10 @@ Add these lines into your cscfeature.xml
 
 Common locations are :
 
-/system/omc/(your CSC code)/
+/system/omc/(your CSC code)  
 /product/omc/(your CSC code)/config  
 /product/omc/(your CSC code)/system  
-/optics/configs/carriers/(your CSC code)/conf
+/optics/configs/carriers/(your CSC code)/conf  
 
 ### ¬ Alt Z Life
 ```
