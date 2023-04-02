@@ -10,9 +10,9 @@
 
 </p>
 
-<li>Debloat list - <a href="https://github.com/LSGio/samsung_additional_features/tree/debloat">Here</a>
+<li>Debloat List - <a href="https://github.com/LSGio/samsung_additional_features/tree/debloat">Here</a>
 <li>Floating Feature Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/floatingfeature">Here</a>
-<li>Csc Feature Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/cscfeature">Here</a>
-<li>Build.prop Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/buildprop">Here</a>
+<li>CSC Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/cscfeature">Here</a>
+<li>build.prop Tweaks - <a href="https://github.com/LSGio/samsung_additional_features/tree/buildprop">Here</a>
 <li>Camera Tweaks - <a href="https://github.com/neel021000/MODS">Here</a>
-<li>XDA Thread - <a href="https://forum.xda-developers.com/t/additional-features-for-samsung-devices.4181105/">Here</a>
+<li>Original XDA Thread - <a href="https://forum.xda-developers.com/t/additional-features-for-samsung-devices.4181105/">Here</a>
